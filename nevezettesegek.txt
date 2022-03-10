@@ -1,1 +1,3 @@
-
+Magyarország;Lánchíd; 1839-1849;
+Magyarország; Vajdahunyad vára; 1896;
+Magyarország; Szent István Bazilika; 1905;
