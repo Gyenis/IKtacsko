@@ -1,3 +1,9 @@
 Magyarország;Lánchíd; 1839-1849;
 Magyarország; Vajdahunyad vára; 1896;
 Magyarország; Szent István Bazilika; 1905;
+Oroszország; Szent Szófia katedrális; 12. század;
+Oroszország; Ermitázs Múzeum; 1764;
+Oroszország; Szent Bazil székesegyház; 1554-1561;
+Lengyelország; Wawel kastély; 14. század;
+Lengyelország; Malbork kastély; 1274
+Lengyelország; Wieliczka sóbánya; 13. század
