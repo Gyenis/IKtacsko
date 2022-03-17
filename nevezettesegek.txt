@@ -1,8 +1,8 @@
-Románia;Tordai Sóbánya;1690–1880
+Románia;Tordai Sóbánya;1690
 Románia;Déva vára;1264
 Románia;Demsusi Templom;1360
 Párizs;Louvre múzeum;1190
-Párizs;Diadalív;1806–1836
+Párizs;Diadalív;1806
 Párizs;Notre Dame;1163
 Svájc;Thun város;1200
 Svájc;Svájci Nemzeti Park;1819
