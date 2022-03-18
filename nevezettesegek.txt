@@ -1,3 +1,12 @@
+Magyarország;Lánchíd;1839
+Magyarország;Vajdahunyad vára;1896
+Magyarország;Szent István Bazilika;1905
+Oroszország;Szent Szófia katedrális;1150
+Oroszország;Ermitázs Múzeum;1764
+Oroszország;Szent Bazil székesegyház;1554
+Lengyelország;Wawel kastély;14.század
+Lengyelország;Malbork kastély;1274
+Lengyelország;Wieliczka sóbánya;1247
 Románia;Tordai Sóbánya;1690
 Románia;Déva vára;1264
 Románia;Demsusi Templom;1360
