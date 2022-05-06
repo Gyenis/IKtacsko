@@ -1,2 +1,1 @@
-# IKtacsko
-Egy nagy kai
+# Nevezetességek
